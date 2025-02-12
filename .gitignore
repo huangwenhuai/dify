@@ -194,4 +194,3 @@ api/.vscode
 
 .idea/
 .vscode
-docker/dify-nginx.py
